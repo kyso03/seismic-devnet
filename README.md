@@ -45,7 +45,7 @@ bash script/transact.sh
 ```
 
 # Final Step
-If you have done all these steps, send a screenshot in the Seismic Discord on the #devnet channel.
+If you have done all these steps, send a screenshot in the Seismic Discord on the [#devnet](https://discord.com/channels/1343751435711414362/1354160432365048019)
 
 ### Quick Links
 
