@@ -18,6 +18,7 @@ sfoundryup
 ```
 
 ## 4. Clone repository
+``` sudo apt update && sudo apt upgrade -y && sudo apt install -y curl git jq lz4 build-essential```
 ```bash
 git clone --recurse-submodules https://github.com/SeismicSystems/try-devnet.git && cd try-devnet/packages/contract/
 ```
